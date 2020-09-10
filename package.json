@@ -7,5 +7,6 @@
   "dependencies" : {
     "express" : "4.13.3"
   },
-  "author" : "Adam Duncan"
+  "author" : "Adam Duncan",
+  "license" : "MIT"
 }
